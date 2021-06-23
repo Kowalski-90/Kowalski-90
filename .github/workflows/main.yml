@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@master
+      - uses: Kowalski-90/fred.bonassa@hotmail.com
         id: snake-gif
         with:
-          github_user_name: kowalski-90
+          github_user_name: Kowalski-90
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
