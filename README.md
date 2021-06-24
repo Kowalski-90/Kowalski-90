@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Frederico Bonassa</h1>
+<h1 align="center">Hi! I'm Frederico Bonassa 👋</h1>
 <h3 align="center">A very nosy software development student.</h3>
 
 <img src="https://user-images.githubusercontent.com/61356476/123008853-0a836000-d392-11eb-9455-579a5e790826.png">
@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowalski-90" alt="kowalski-90" /></a> </p>
-
-- 🌱 I’m currently learning **C, C# with .NET and SQL**
 
 - 📫 How to reach me **fred.bonassa@hotmail.com**
 
@@ -36,7 +34,8 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" alt="dotnet" />  
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" alt="dotnet" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" />  
 
 <p><h3>And... why not?<h3></p>
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="playstation" />
