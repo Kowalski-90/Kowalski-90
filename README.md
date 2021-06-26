@@ -7,18 +7,16 @@
 
 <!--trophy--><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowalski-90&theme=onedark&row=2&column=3&margin-h=5 alt="kowalski-90" /></a> 
 
-- 📫 How to reach me **fred.bonassa@hotmail.com**
-
 <!--linkedin--><h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://br.linkedin.com/in/fredericobonassa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedinfrederico" /></a>
 </p>
 
-<!--languages--><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kowalski-90" /></p>
+<!--languages--><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kowalski-90" /></p>
 
 <!--stats--><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90" /></p>
 
-<!--streak--><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90" /></p>
+<!--streak--><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90" /></p>
 
 <p><h3>Workspace specs<h3></p>
 <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="ryzen" />
