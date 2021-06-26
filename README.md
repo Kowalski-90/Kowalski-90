@@ -1,24 +1,24 @@
-<h1 align="center">Hi! I'm Frederico Bonassa 👋</h1>
-<h3 align="center">A very nosy software development student.</h3>
+<!--title--><h1 align="center">Hi! I'm Frederico Bonassa 👋</h1>
+<!--title--><h3 align="center">A very nosy software development student.</h3>
 
-<img src="https://user-images.githubusercontent.com/61356476/123008853-0a836000-d392-11eb-9455-579a5e790826.png">
+<!--banner--><img src="https://user-images.githubusercontent.com/61356476/123008853-0a836000-d392-11eb-9455-579a5e790826.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90" /> </p>
+<!--profile views--><p align="left"> <img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowalski-90" alt="kowalski-90" /></a> </p>
+<!--trophy--><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowalski-90&theme=onedark" alt="kowalski-90" /></a> 
 
 - 📫 How to reach me **fred.bonassa@hotmail.com**
 
-<h3 align="left">Connect with me</h3>
+<!--linkedin--><h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://br.linkedin.com/in/fredericobonassa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedinfrederico" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kowalski-90" /></p>
+<!--languages--><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kowalski-90" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90" /></p>
+<!--stats--><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90" /></p>
+<!--streak--><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90" /></p>
 
 <p><h3>Workspace specs<h3></p>
 <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="ryzen" />
