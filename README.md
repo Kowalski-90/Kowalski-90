@@ -3,9 +3,9 @@
 
 <!--banner--><img src="https://user-images.githubusercontent.com/61356476/123008853-0a836000-d392-11eb-9455-579a5e790826.png">
 
-<!--profile views--><p align="left"> <img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90" /> </p>
+<!--profile views--><img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90" /> </p>
 
-<!--trophy--><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowalski-90&theme=onedark" alt="kowalski-90" /></a> 
+<!--trophy--><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowalski-90&theme=onedark&row=2&column=3&margin-h=5 alt="kowalski-90" /></a> 
 
 - 📫 How to reach me **fred.bonassa@hotmail.com**
 
@@ -16,7 +16,7 @@
 
 <!--languages--><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kowalski-90" /></p>
 
-<!--stats--><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90" /></p>
+<!--stats--><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90" /></p>
 
 <!--streak--><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90" /></p>
 
