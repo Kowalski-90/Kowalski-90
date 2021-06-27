@@ -12,7 +12,7 @@
 <a href="https://br.linkedin.com/in/fredericobonassa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedinfrederico" /></a>
 </p>
 
-<!--languages--><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kowalski-90" /></p>
+<!--languages--><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="kowalski-90" /></p>
 
 <!--stats--><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90" /></p>
 
