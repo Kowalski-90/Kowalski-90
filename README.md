@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" alt="dotnet" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" />  
 
-<p><h3>And... why not?<h3></p>
+<p><h3>Why not?<h3></p>
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="playstation" />
 <a href="https://steamcommunity.com/id/kowalski-90/" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam" />
 <img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" alt="battlenet" />  
