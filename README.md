@@ -1,7 +1,7 @@
 <!--title--><h1 align="center">Hi! I'm Frederico Bonassa 👋</h1>
 <!--title--><h3 align="center">A very nosy software development student.</h3>
 
-<!--banner--><img src="https://user-images.githubusercontent.com/61356476/123008853-0a836000-d392-11eb-9455-579a5e790826.png">
+<!--banner--><img src="https://github.com/Kowalski-90/imgperfil/blob/main/Frederico%20Bonassa.png">
 
 <!--profile views--><img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90" /> </p>
 
