@@ -1,5 +1,4 @@
 <!--title--><h1 align="center">Hi! I'm Frederico Bonassa 👋</h1>
-<!--title--><h3 align="center">A very nosy software development student.</h3>
 
 <!--banner--><img src="https://github.com/Kowalski-90/imgperfil/blob/main/Frederico%20Bonassa.png">
 
