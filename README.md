@@ -1,5 +1,3 @@
-<!--title--><h1 align="center">Hi! I'm Frederico Bonassa 👋</h1>
-
 <!--banner--><img src="https://github.com/Kowalski-90/imgperfil/blob/main/Frederico%20Bonassa.png">
 
 <!--profile views--><img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90" /> </p>
