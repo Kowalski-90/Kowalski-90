@@ -2,7 +2,7 @@
 
 <!--profile views--><img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90" /> </p>
 
-<!--trophy--><a href="https://github.com/ryo-ma/github-profile-trophy" position=center><img src="https://github-profile-trophy.vercel.app/?username=kowalski-90&theme=onedark&row=2&column=3&margin-h=5 alt="kowalski-90" /></a> 
+<!--trophy--><a href="https://github.com/ryo-ma/github-profile-trophy" align=center><img src="https://github-profile-trophy.vercel.app/?username=kowalski-90&theme=onedark&row=2&column=3&margin-h=5 alt="kowalski-90" /></a> 
 
 <!--linkedin--><h3 align="left">Connect with me</h3>
 <p align="left">
