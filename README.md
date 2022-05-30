@@ -1,23 +1,22 @@
 <!--banner--><img src="https://github.com/Kowalski-90/imgperfil/blob/main/Frederico%20Bonassa.png">
 
-<!--profile views--><img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90" /> </p>
+<!--profile views--><p align="center"><img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90" /> </p>
 
-<!--trophy--><a href="https://github.com/ryo-ma/github-profile-trophy"><center><img src="https://github-profile-trophy.vercel.app/?username=kowalski-90&theme=onedark&row=2&column=3&margin-h=5 alt="kowalski-90"/></center></a> 
+<!--trophy--><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowalski-90&theme=onedark&row=2&column=3&margin-h=5 alt="kowalski-90"></a></p>
 
-<!--linkedin--><h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://br.linkedin.com/in/fredericobonassa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedinfrederico" /></a>
+<!--linkedin--><h3 align="center">Connect with me</h3><p align="center">  
+<p align="center"><a href="https://br.linkedin.com/in/fredericobonassa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedinfrederico" /></a>
 </p>
 
-<!--languages--><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="kowalski-90" /></p>
+<!--languages--><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="kowalski-90" /></p>
 
-<!--stats--><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90" /></p>
+<!--stats--><p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90" /></p>
 
-<!--streak--><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90" /></p>
+<!--streak--><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90" /></p>
 
-<p><h3>Workspace specs<h3></p>
-<img src="https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="ryzen" />
-<img src="https://img.shields.io/badge/AMD-Radeon_RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="radeon" />
+<p align="center"><h3>Workspace specs<h3></p>
+<p align="center"><img src="https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="ryzen" /></p>
+<p align="center"><img src="https://img.shields.io/badge/AMD-Radeon_RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="radeon" /></p>
 
 <p><h3>Design habilities<h3></p>
 <p><img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /></p> 
