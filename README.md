@@ -17,7 +17,7 @@
 
 <p><h3>Workspace specs<h3></p>
 <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="ryzen" />
-<img src="https://img.shields.io/badge/AMD-Radeon_RX_5600XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="radeon" />
+<img src="https://img.shields.io/badge/AMD-Radeon_RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="radeon" />
 
 <p><h3>Design habilities<h3></p>
 <p><img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /></p> 
