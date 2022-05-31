@@ -1,24 +1,20 @@
 ## Hi, there! I'm Frederico Bonassa (A.K.A Kowalski :penguin:)
-#### He / Him
-#### Currently working at BM Tech Soluções Tecnológicas | Sorocaba-SP (Brazil)
-#### Currently learning HTML5, CSS3 and JavaScript
+#### :man_beard: He / Him
+#### :computer: Currently working at BM Tech Soluções Tecnológicas | Sorocaba-SP (Brazil)
+#### :floppy_disk: Currently learning HTML5, CSS3 and JavaScript
 #### I'm looking to contribute with GitHub community and help other junior devs to achieve their goals
 #### You can ask me about carrer shift and how to begin in the area, anytime!
 #### You can also contact me by LinkedIn link below
-#### Fun fact: I have a Bachelor's degree in History and Associate's degree in Chemistry
-
-<!-- trophy -->
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowalski-90&theme=onedark&row=2&column=3&margin-h=5 alt="kowalski-90" width="40%"></a></p>
-
-<div>
-  <!-- most used languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="kowalski-90" width="40%">
-  <!-- stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90" width="40%">
+#### I have also a Bachelor's degree in History :man_teacher: and Associate's degree in Chemistry :atom:
+----------------------------------------------------------------------------------------
+<!-- most used languages | stats -->
+<div align="center">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="kowalski-90">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90">
 </div>
   
 <!-- streak -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90" width="40%"></p>
+<p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90"></p>
   
 <!-- profile views | linkedin -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90"><br><p align="center"><a href="https://br.linkedin.com/in/fredericobonassa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedinfrederico"></p>
