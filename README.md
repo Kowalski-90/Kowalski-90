@@ -9,8 +9,8 @@
 ----------------------------------------------------------------------------------------
 <!-- most used languages | stats -->
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="kowalski-90">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90">
+  <img width="80%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="kowalski-90">
+  <img width="80%" height="180em" src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90">
 </div>
   
 <!-- streak -->
