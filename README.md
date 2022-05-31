@@ -1,11 +1,11 @@
 ## Hi, there! I'm Frederico Bonassa (A.K.A Kowalski :penguin:)
-#### :man_beard: He / Him
-#### :computer: Currently working at BM Tech Soluções Tecnológicas | Sorocaba-SP (Brazil)
-#### :floppy_disk: Currently learning HTML5, CSS3 and JavaScript
-#### I'm looking to contribute with GitHub community and help other junior devs to achieve their goals
-#### You can ask me about carrer shift and how to begin in the area, anytime!
-#### You can also contact me by LinkedIn link below
-#### I have also a Bachelor's degree in History :man_teacher: and Associate's degree in Chemistry :atom:
+##### :man_beard: He / Him
+##### :computer: Currently working at BM Tech Soluções Tecnológicas | Sorocaba-SP (Brazil)
+##### :floppy_disk: Currently learning HTML5, CSS3 and JavaScript
+##### I'm looking to contribute with GitHub community and help other junior devs to achieve their goals
+##### You can ask me about carrer shift and how to begin in the area, anytime!
+##### You can also contact me by LinkedIn link below
+##### I have also a Bachelor's degree in History :man_teacher: and Associate's degree in Chemistry :atom:
 ----------------------------------------------------------------------------------------
 <!-- most used languages | stats -->
 <div align="center">  
