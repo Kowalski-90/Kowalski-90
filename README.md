@@ -1,15 +1,22 @@
-<!-- banner -->
-<p align="center"><img src="https://github.com/Kowalski-90/imgperfil/blob/main/Frederico%20Bonassa.png" width="40%" ></p>
+## Hi, there! I'm Frederico Bonassa (A.K.A Kowalski :penguin:)
+#### He / Him
+#### Currently working at BM Tech Soluções Tecnológicas | Sorocaba-SP (Brazil)
+#### Currently learning HTML5, CSS3 and JavaScript
+#### I'm looking to contribute with GitHub community and help other junior devs to achieve their goals
+#### You can ask me about carrer shift and how to begin in the area, anytime!
+#### You can also contact me by LinkedIn link below
+#### Fun fact: I have a Bachelor's degree in History and Associate's degree in Chemistry
 
 <!-- trophy -->
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowalski-90&theme=onedark&row=2&column=3&margin-h=5 alt="kowalski-90" width="40%"></a></p>
 
-<!-- most used languages -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="kowalski-90" width="40%"></p>
-
-<!-- stats -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90" width="40%"></p>
-
+<div>
+  <!-- most used languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="kowalski-90" width="40%">
+  <!-- stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90" width="40%">
+</div>
+  
 <!-- streak -->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90" width="40%"></p>
   
