@@ -7,15 +7,13 @@
 ##### :point_down: You can also contact me by LinkedIn link below
 ##### I have also a Bachelor's degree in History :man_teacher: and Associate's degree in Chemistry :atom:
 ----------------------------------------------------------------------------------------
-<!-- most used languages | stats -->
-<div align="center">  
+<!-- most used languages | stats | streak -->
+<div align="left">  
   <img width="80%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="kowalski-90">
   <img width="80%" height="180em" src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90">
+  <img width="80%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90">
 </div>
-  
-<!-- streak -->
-<p align="center"><img width="80%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90"></p>
-  
+
 <!-- profile views | linkedin -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90"><br><p align="left"><a href="https://br.linkedin.com/in/fredericobonassa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedinfrederico"></p>
 
