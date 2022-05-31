@@ -2,9 +2,9 @@
 ##### :man_beard: He / Him
 ##### :computer: Currently working at BM Tech Soluções Tecnológicas | Sorocaba-SP (Brazil)
 ##### :floppy_disk: Currently learning HTML5, CSS3 and JavaScript
-##### I'm looking to contribute with GitHub community and help other junior devs to achieve their goals
-##### You can ask me about carrer shift and how to begin in the area, anytime!
-##### You can also contact me by LinkedIn link below
+##### :heart: I'm looking to contribute with GitHub community and help other junior devs to achieve their goals
+##### :raising_hand_man: You can ask me about carrer shift and how to begin in the area, anytime!
+##### :point_down: You can also contact me by LinkedIn link below
 ##### I have also a Bachelor's degree in History :man_teacher: and Associate's degree in Chemistry :atom:
 ----------------------------------------------------------------------------------------
 <!-- most used languages | stats -->
@@ -17,7 +17,7 @@
 <p align="center"><img width="80%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90"></p>
   
 <!-- profile views | linkedin -->
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90"><br><p align="center"><a href="https://br.linkedin.com/in/fredericobonassa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedinfrederico"></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90"><br><p align="left"><a href="https://br.linkedin.com/in/fredericobonassa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedinfrederico"></p>
 
 <p align="left"><h3>Workspace specs<h3></p>
 <p align="left"><img src="https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="ryzen" /></p>
