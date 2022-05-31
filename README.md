@@ -1,5 +1,5 @@
 <!-- banner -->
-<p align="center"><img width="60%" src="https://github.com/Kowalski-90/imgperfil/blob/main/Frederico%20Bonassa.png"></p>
+<p align="center"><img src="https://github.com/Kowalski-90/imgperfil/blob/main/Frederico%20Bonassa.png" width="40%" ></p>
 
 <!-- trophy -->
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowalski-90&theme=onedark&row=2&column=3&margin-h=5 alt="kowalski-90" width="40%"></a></p>
