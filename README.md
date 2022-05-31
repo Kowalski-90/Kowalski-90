@@ -1,25 +1,29 @@
-<!--banner--><img src="https://github.com/Kowalski-90/imgperfil/blob/main/Frederico%20Bonassa.png">
+<!-- banner -->
+<p align="center"><img width="60%" src="https://github.com/Kowalski-90/imgperfil/blob/main/Frederico%20Bonassa.png"></p>
 
-<!--profile views--><p align="center"><img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90" /> </p>
+<!-- trophy -->
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowalski-90&theme=onedark&row=2&column=3&margin-h=5 alt="kowalski-90" width="40%"></a></p>
 
-<!--trophy--><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowalski-90&theme=onedark&row=2&column=3&margin-h=5 alt="kowalski-90"></a></p>
+<!-- most used languages -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="kowalski-90" width="40%"></p>
 
-<!--linkedin--><h3 align="center">Connect with me</h3><p align="center">  
-<p align="center"><a href="https://br.linkedin.com/in/fredericobonassa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedinfrederico" /></a>
-</p>
+<!-- stats -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90" width="40%"></p>
 
-<!--languages--><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kowalski-90&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="kowalski-90" /></p>
+<!-- streak -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90" width="40%"></p>
+  
+<!-- profile views | linkedin -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90"><br><p align="center"><a href="https://br.linkedin.com/in/fredericobonassa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedinfrederico"></p>
 
-<!--stats--><p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kowalski-90&show_icons=true&locale=en&theme=tokyonight" alt="kowalski-90" /></p>
-
-<!--streak--><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90" /></p>
-
-<p align="center"><h3>Workspace specs<h3></p>
-<p align="center"><img src="https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="ryzen" /></p>
-<p align="center"><img src="https://img.shields.io/badge/AMD-Radeon_RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="radeon" /></p>
+<p align="left"><h3>Workspace specs<h3></p>
+<p align="left"><img src="https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="ryzen" /></p>
+<p align="left"><img src="https://img.shields.io/badge/AMD-Radeon_RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="radeon" /></p>
 
 <p><h3>Design habilities<h3></p>
-<p><img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /></p> 
+<p><img align="left" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva"></p>
+  
+<br>
   
 <p><h3>Learning<h3></p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -31,10 +35,10 @@
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" alt="dotnet" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" />  
 
-<p><h3>Why not?<h3></p>
-<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="playstation" />
-<a href="https://steamcommunity.com/id/kowalski-90/" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam" />
-<img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" alt="battlenet" />  
-<img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="epic" />  
-<img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" alt="EA" />  
-<img src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black" alt="ubisoft" />  
+<p><h3>Gaming platforms<h3></p>
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="playstation">
+<a href="https://steamcommunity.com/id/kowalski-90/" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam">
+<img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" alt="battlenet">  
+<img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="epic">  
+<img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" alt="EA">  
+<img src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black" alt="ubisoft">
