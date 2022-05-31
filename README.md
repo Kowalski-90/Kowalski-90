@@ -14,7 +14,7 @@
 </div>
   
 <!-- streak -->
-<p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90"></p>
+<p align="center"><img width="80%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kowalski-90&theme=tokyonight" alt="kowalski-90"></p>
   
 <!-- profile views | linkedin -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kowalski-90&label=Profile%20views&color=0e75b6&style=flat" alt="kowalski-90"><br><p align="center"><a href="https://br.linkedin.com/in/fredericobonassa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedinfrederico"></p>
