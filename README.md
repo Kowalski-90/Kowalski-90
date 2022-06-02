@@ -3,7 +3,7 @@
 ##### :computer: Currently working at BM Tech Soluções Tecnológicas | Sorocaba-SP (Brazil)
 ##### :man_technologist: Right now I am learning HTML5, CSS3 and JavaScript
 ##### :heart: I'm looking forward to contribute with GitHub community and help other junior devs to achieve their goals too
-##### :raising_hand_man: You can ask me about carrer shift and how to begin in the area, anytime
+##### :raising_hand_man: You can ask me about carrer shift and how to begin in this working field, anytime
 ##### :point_down: Contact me by clicking on the LinkedIn link below
 ##### :mortar_board: I have also a Bachelor's degree in History :man_teacher: and Associate's degree in Chemistry :man_scientist:
 ----------------------------------------------------------------------------------------
